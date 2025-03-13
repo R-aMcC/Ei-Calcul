@@ -1,0 +1,53 @@
+{
+    "100": {
+        "bubble_sort": {
+            "times": 0.0,
+            "comparisons": 7524.4,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 0.0,
+            "comparisons": 2772.4,
+            "operations": 2674.4
+        },
+        "quick_sort": {
+            "times": 0.0,
+            "comparisons": 1403.2,
+            "operations": 332.0
+        }
+    },
+    "200": {
+        "bubble_sort": {
+            "times": 0.0,
+            "comparisons": 18562.5,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 0.0,
+            "comparisons": 6435.5,
+            "operations": 6287.5
+        },
+        "quick_sort": {
+            "times": 0.0,
+            "comparisons": 2362.7,
+            "operations": 496.5
+        }
+    },
+    "300": {
+        "bubble_sort": {
+            "times": 0.0,
+            "comparisons": 34712.2,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 0.0,
+            "comparisons": 11876.866666666667,
+            "operations": 11678.866666666667
+        },
+        "quick_sort": {
+            "times": 0.0,
+            "comparisons": 3323.6666666666665,
+            "operations": 664.3333333333334
+        }
+    }
+}
