@@ -4027,5 +4027,3133 @@
             "comparisons": 358890.7265822785,
             "operations": 24581.345991561182
         }
+    },
+    "23800": {
+        "bubble_sort": {
+            "times": 11.071274809076103,
+            "comparisons": 142420779.4882353,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 5.741614873612842,
+            "comparisons": 47381398.10420168,
+            "operations": 47369450.10420168
+        },
+        "quick_sort": {
+            "times": 0.016838697562465726,
+            "comparisons": 360422.8075630252,
+            "operations": 24643.365546218487
+        }
+    },
+    "23900": {
+        "bubble_sort": {
+            "times": 11.137315820586316,
+            "comparisons": 143615826.4786611,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 5.771916171129127,
+            "comparisons": 47779237.524686195,
+            "operations": 47767239.524686195
+        },
+        "quick_sort": {
+            "times": 0.01688137598263653,
+            "comparisons": 361985.0677824268,
+            "operations": 24705.5230125523
+        }
+    },
+    "24000": {
+        "bubble_sort": {
+            "times": 11.204043690500548,
+            "comparisons": 144816257.5525,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 5.801106051249372,
+            "comparisons": 48177894.47416667,
+            "operations": 48165846.47416667
+        },
+        "quick_sort": {
+            "times": 0.01692123708271538,
+            "comparisons": 363543.5858333333,
+            "operations": 24767.6875
+        }
+    },
+    "24100": {
+        "bubble_sort": {
+            "times": 11.262040595602123,
+            "comparisons": 146021945.0605809,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 5.826855074854169,
+            "comparisons": 48579118.42489626,
+            "operations": 48567020.42489626
+        },
+        "quick_sort": {
+            "times": 0.01696146904501515,
+            "comparisons": 365098.47634854773,
+            "operations": 24829.75518672199
+        }
+    },
+    "24200": {
+        "bubble_sort": {
+            "times": 11.316812121240115,
+            "comparisons": 147233516.17190084,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 5.850043667685327,
+            "comparisons": 48981600.40661157,
+            "operations": 48969452.40661157
+        },
+        "quick_sort": {
+            "times": 0.01699656471013561,
+            "comparisons": 366799.58347107435,
+            "operations": 24891.27685950413
+        }
+    },
+    "24300": {
+        "bubble_sort": {
+            "times": 11.372151433333798,
+            "comparisons": 148450819.38106996,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 5.873922701316182,
+            "comparisons": 49386825.752263375,
+            "operations": 49374627.752263375
+        },
+        "quick_sort": {
+            "times": 0.017039087818314633,
+            "comparisons": 368455.02633744857,
+            "operations": 24952.9670781893
+        }
+    },
+    "24400": {
+        "bubble_sort": {
+            "times": 11.427659070902108,
+            "comparisons": 149671206.19016394,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 5.8975995899993,
+            "comparisons": 49793492.977868855,
+            "operations": 49781244.977868855
+        },
+        "quick_sort": {
+            "times": 0.017071041720680757,
+            "comparisons": 369934.2418032787,
+            "operations": 25013.782786885247
+        }
+    },
+    "24500": {
+        "bubble_sort": {
+            "times": 11.483235567265845,
+            "comparisons": 150896893.0057143,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 5.922268227264713,
+            "comparisons": 50201927.63346939,
+            "operations": 50189629.63346939
+        },
+        "quick_sort": {
+            "times": 0.017110061795327203,
+            "comparisons": 371441.0685714286,
+            "operations": 25075.020408163266
+        }
+    },
+    "24600": {
+        "bubble_sort": {
+            "times": 11.538339408130549,
+            "comparisons": 152128053.81463414,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 5.946582334958787,
+            "comparisons": 50612215.56504065,
+            "operations": 50599867.56504065
+        },
+        "quick_sort": {
+            "times": 0.017139302682400326,
+            "comparisons": 372971.68861788616,
+            "operations": 25135.48780487805
+        }
+    },
+    "24700": {
+        "bubble_sort": {
+            "times": 11.594821068826358,
+            "comparisons": 153364737.86153847,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 5.971303709958979,
+            "comparisons": 51023326.36680162,
+            "operations": 51010928.36680162
+        },
+        "quick_sort": {
+            "times": 0.01719392218569535,
+            "comparisons": 374691.7773279352,
+            "operations": 25195.58704453441
+        }
+    },
+    "24800": {
+        "bubble_sort": {
+            "times": 11.651824842984347,
+            "comparisons": 154604647.55645162,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 5.996120625563931,
+            "comparisons": 51435898.86129032,
+            "operations": 51423450.86129032
+        },
+        "quick_sort": {
+            "times": 0.017248169435028573,
+            "comparisons": 376306.93790322583,
+            "operations": 25255.887096774193
+        }
+    },
+    "24900": {
+        "bubble_sort": {
+            "times": 11.709121909157147,
+            "comparisons": 155853330.31485945,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.021634291244407,
+            "comparisons": 51851167.131726906,
+            "operations": 51838669.131726906
+        },
+        "quick_sort": {
+            "times": 0.01728004248949314,
+            "comparisons": 377869.5670682731,
+            "operations": 25315.90361445783
+        }
+    },
+    "25000": {
+        "bubble_sort": {
+            "times": 11.767043800000566,
+            "comparisons": 157104751.332,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.047887869919418,
+            "comparisons": 52269611.08,
+            "operations": 52257063.08
+        },
+        "quick_sort": {
+            "times": 0.017310853039566428,
+            "comparisons": 379395.528,
+            "operations": 25375.54
+        }
+    },
+    "25100": {
+        "bubble_sort": {
+            "times": 11.824443767410962,
+            "comparisons": 158363547.70756972,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.073541641114994,
+            "comparisons": 52687955.08446215,
+            "operations": 52675357.08446215
+        },
+        "quick_sort": {
+            "times": 0.01735291681233868,
+            "comparisons": 380959.46613545815,
+            "operations": 25434.97609561753
+        }
+    },
+    "25200": {
+        "bubble_sort": {
+            "times": 11.88211986190535,
+            "comparisons": 159622212.39126983,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.098453084285193,
+            "comparisons": 53106217.35,
+            "operations": 53093569.35
+        },
+        "quick_sort": {
+            "times": 0.01738804063449303,
+            "comparisons": 382530.39206349204,
+            "operations": 25494.43650793651
+        }
+    },
+    "25300": {
+        "bubble_sort": {
+            "times": 11.939910016047977,
+            "comparisons": 160889866.98893282,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.125054282133915,
+            "comparisons": 53528774.82371542,
+            "operations": 53516076.82371542
+        },
+        "quick_sort": {
+            "times": 0.017421231145847205,
+            "comparisons": 384165.3841897233,
+            "operations": 25553.462450592884
+        }
+    },
+    "25400": {
+        "bubble_sort": {
+            "times": 11.999510356457217,
+            "comparisons": 162161660.03622046,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.151425460078268,
+            "comparisons": 53953499.32834645,
+            "operations": 53940751.32834645
+        },
+        "quick_sort": {
+            "times": 0.017454259448426254,
+            "comparisons": 385822.40472440945,
+            "operations": 25612.094488188977
+        }
+    },
+    "25500": {
+        "bubble_sort": {
+            "times": 12.058925899529976,
+            "comparisons": 163437848.75843138,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.17927144015637,
+            "comparisons": 54379229.46980392,
+            "operations": 54366431.46980392
+        },
+        "quick_sort": {
+            "times": 0.017491245411391205,
+            "comparisons": 387444.0925490196,
+            "operations": 25670.670588235294
+        }
+    },
+    "25600": {
+        "bubble_sort": {
+            "times": 12.11868180039114,
+            "comparisons": 164720535.6796875,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.207171450624491,
+            "comparisons": 54805480.9359375,
+            "operations": 54792632.9359375
+        },
+        "quick_sort": {
+            "times": 0.01753578671828109,
+            "comparisons": 389033.2765625,
+            "operations": 25728.515625
+        }
+    },
+    "25700": {
+        "bubble_sort": {
+            "times": 12.178922993385827,
+            "comparisons": 166008847.9291829,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.2346447016337185,
+            "comparisons": 55235034.916731514,
+            "operations": 55222136.916731514
+        },
+        "quick_sort": {
+            "times": 0.017571700933291523,
+            "comparisons": 390629.71828793775,
+            "operations": 25786.677042801555
+        }
+    },
+    "25800": {
+        "bubble_sort": {
+            "times": 12.239056396512305,
+            "comparisons": 167299198.87054265,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.2618109850382595,
+            "comparisons": 55663759.52170543,
+            "operations": 55650811.52170543
+        },
+        "quick_sort": {
+            "times": 0.01762410976685757,
+            "comparisons": 392164.6992248062,
+            "operations": 25845.147286821706
+        }
+    },
+    "25900": {
+        "bubble_sort": {
+            "times": 12.299957316062454,
+            "comparisons": 168594934.05096525,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.28864350494161,
+            "comparisons": 56095629.38610039,
+            "operations": 56082631.38610039
+        },
+        "quick_sort": {
+            "times": 0.017667961003291186,
+            "comparisons": 393751.2749034749,
+            "operations": 25902.7722007722
+        }
+    },
+    "26000": {
+        "bubble_sort": {
+            "times": 12.361121953231363,
+            "comparisons": 169895532.37153846,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.317989850999483,
+            "comparisons": 56529796.33153846,
+            "operations": 56516748.33153846
+        },
+        "quick_sort": {
+            "times": 0.01772764038402014,
+            "comparisons": 395408.9869230769,
+            "operations": 25960.596153846152
+        }
+    },
+    "26100": {
+        "bubble_sort": {
+            "times": 12.422237778161483,
+            "comparisons": 171201292.91034484,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.346092048122091,
+            "comparisons": 56965089.66896552,
+            "operations": 56951991.66896552
+        },
+        "quick_sort": {
+            "times": 0.017772743600943407,
+            "comparisons": 397047.31954022986,
+            "operations": 26018.04214559387
+        }
+    },
+    "26200": {
+        "bubble_sort": {
+            "times": 12.484420783588359,
+            "comparisons": 172510159.84427482,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.374015824197932,
+            "comparisons": 57401098.84656489,
+            "operations": 57387950.84656489
+        },
+        "quick_sort": {
+            "times": 0.017813657022362133,
+            "comparisons": 398656.513740458,
+            "operations": 26075.541984732823
+        }
+    },
+    "26300": {
+        "bubble_sort": {
+            "times": 12.547380740304712,
+            "comparisons": 173825413.64258555,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.402478580303692,
+            "comparisons": 57840019.15665399,
+            "operations": 57826821.15665399
+        },
+        "quick_sort": {
+            "times": 0.017843839999495476,
+            "comparisons": 400147.2783269962,
+            "operations": 26132.285171102663
+        }
+    },
+    "26400": {
+        "bubble_sort": {
+            "times": 12.611233070833789,
+            "comparisons": 175148396.41060606,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.430379382272209,
+            "comparisons": 58281432.47424243,
+            "operations": 58268184.47424243
+        },
+        "quick_sort": {
+            "times": 0.01787568469642958,
+            "comparisons": 401679.6992424242,
+            "operations": 26189.689393939392
+        }
+    },
+    "26500": {
+        "bubble_sort": {
+            "times": 12.674088319321251,
+            "comparisons": 176474633.4754717,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.458859194414559,
+            "comparisons": 58724026.001509435,
+            "operations": 58710728.001509435
+        },
+        "quick_sort": {
+            "times": 0.017910565735359308,
+            "comparisons": 403310.6120754717,
+            "operations": 26246.316981132077
+        }
+    },
+    "26600": {
+        "bubble_sort": {
+            "times": 12.73829907360955,
+            "comparisons": 177805193.03533834,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.486700851427998,
+            "comparisons": 59166282.915037595,
+            "operations": 59152934.915037595
+        },
+        "quick_sort": {
+            "times": 0.01795606330782,
+            "comparisons": 404897.04135338345,
+            "operations": 26303.0977443609
+        }
+    },
+    "26700": {
+        "bubble_sort": {
+            "times": 12.802616047865644,
+            "comparisons": 179142679.74906367,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.515323051085568,
+            "comparisons": 59612032.68539326,
+            "operations": 59598634.68539326
+        },
+        "quick_sort": {
+            "times": 0.017993058875937377,
+            "comparisons": 406465.31235955056,
+            "operations": 26359.842696629214
+        }
+    },
+    "26800": {
+        "bubble_sort": {
+            "times": 12.866748249478057,
+            "comparisons": 180484953.6574627,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.5452366587307145,
+            "comparisons": 60058494.47761194,
+            "operations": 60045046.47761194
+        },
+        "quick_sort": {
+            "times": 0.018039260148774456,
+            "comparisons": 408089.92686567164,
+            "operations": 26415.54104477612
+        }
+    },
+    "26900": {
+        "bubble_sort": {
+            "times": 12.93274395159895,
+            "comparisons": 181830056.09665427,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.573551665649958,
+            "comparisons": 60506609.85576208,
+            "operations": 60493111.85576208
+        },
+        "quick_sort": {
+            "times": 0.018073504980996278,
+            "comparisons": 409643.46691449813,
+            "operations": 26471.059479553904
+        }
+    },
+    "27000": {
+        "bubble_sort": {
+            "times": 12.998079812222729,
+            "comparisons": 183180918.0362963,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.602546051332761,
+            "comparisons": 60955955.8762963,
+            "operations": 60942407.8762963
+        },
+        "quick_sort": {
+            "times": 0.0181100874069509,
+            "comparisons": 411199.94814814813,
+            "operations": 26526.40740740741
+        }
+    },
+    "27100": {
+        "bubble_sort": {
+            "times": 13.064268393358482,
+            "comparisons": 184538942.90405905,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.6327823450178425,
+            "comparisons": 61409340.54391144,
+            "operations": 61395742.54391144
+        },
+        "quick_sort": {
+            "times": 0.018153626641612568,
+            "comparisons": 412791.3291512915,
+            "operations": 26581.89667896679
+        }
+    },
+    "27200": {
+        "bubble_sort": {
+            "times": 13.130869964191815,
+            "comparisons": 185902152.7904412,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.663604683602342,
+            "comparisons": 61862091.347058825,
+            "operations": 61848443.347058825
+        },
+        "quick_sort": {
+            "times": 0.01819203683771775,
+            "comparisons": 414433.9786764706,
+            "operations": 26637.757352941175
+        }
+    },
+    "27300": {
+        "bubble_sort": {
+            "times": 13.196785372967623,
+            "comparisons": 187267757.58608058,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.693320315384056,
+            "comparisons": 62318676.51794872,
+            "operations": 62304978.51794872
+        },
+        "quick_sort": {
+            "times": 0.01823005084197409,
+            "comparisons": 415984.18901098904,
+            "operations": 26692.978021978022
+        }
+    },
+    "27400": {
+        "bubble_sort": {
+            "times": 13.262945483723167,
+            "comparisons": 188637986.9481752,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.722977876276786,
+            "comparisons": 62776216.278832115,
+            "operations": 62762468.278832115
+        },
+        "quick_sort": {
+            "times": 0.01826717416011477,
+            "comparisons": 417583.8335766423,
+            "operations": 26748.16423357664
+        }
+    },
+    "27500": {
+        "bubble_sort": {
+            "times": 13.329516292509624,
+            "comparisons": 190013369.19854546,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.7532915514176715,
+            "comparisons": 63233664.818909094,
+            "operations": 63219866.818909094
+        },
+        "quick_sort": {
+            "times": 0.01830470414497805,
+            "comparisons": 419191.9949090909,
+            "operations": 26803.04
+        }
+    },
+    "27600": {
+        "bubble_sort": {
+            "times": 13.397583836015015,
+            "comparisons": 191392784.66231883,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.78487911079656,
+            "comparisons": 63694055.733333334,
+            "operations": 63680207.733333334
+        },
+        "quick_sort": {
+            "times": 0.01834111572416209,
+            "comparisons": 420748.2260869565,
+            "operations": 26857.695652173912
+        }
+    },
+    "27700": {
+        "bubble_sort": {
+            "times": 13.465862182744178,
+            "comparisons": 192776959.36462092,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.815083197761152,
+            "comparisons": 64154193.65487365,
+            "operations": 64140295.65487365
+        },
+        "quick_sort": {
+            "times": 0.018377802382216583,
+            "comparisons": 422334.87075812276,
+            "operations": 26912.083032490973
+        }
+    },
+    "27800": {
+        "bubble_sort": {
+            "times": 13.534324090432111,
+            "comparisons": 194167504.9374101,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.845326129495829,
+            "comparisons": 64619307.40863309,
+            "operations": 64605359.40863309
+        },
+        "quick_sort": {
+            "times": 0.018409843236943304,
+            "comparisons": 423889.6834532374,
+            "operations": 26966.63309352518
+        }
+    },
+    "27900": {
+        "bubble_sort": {
+            "times": 13.60208893462408,
+            "comparisons": 195564229.4702509,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.876734786020887,
+            "comparisons": 65085976.52114695,
+            "operations": 65071978.52114695
+        },
+        "quick_sort": {
+            "times": 0.018455692687686067,
+            "comparisons": 425477.9218637993,
+            "operations": 27020.659498207886
+        }
+    },
+    "28000": {
+        "bubble_sort": {
+            "times": 13.67172467721464,
+            "comparisons": 196963731.1764286,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.907763357785006,
+            "comparisons": 65550772.532142855,
+            "operations": 65536724.532142855
+        },
+        "quick_sort": {
+            "times": 0.01849277878521077,
+            "comparisons": 427182.1335714286,
+            "operations": 27074.117857142857
+        }
+    },
+    "28100": {
+        "bubble_sort": {
+            "times": 13.740093747971935,
+            "comparisons": 198367862.26405695,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.938482118077581,
+            "comparisons": 66016575.453380786,
+            "operations": 66002477.453380786
+        },
+        "quick_sort": {
+            "times": 0.018529853522586983,
+            "comparisons": 428855.65765124554,
+            "operations": 27127.654804270464
+        }
+    },
+    "28200": {
+        "bubble_sort": {
+            "times": 13.809281738085469,
+            "comparisons": 199779569.68014184,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 6.969654881772387,
+            "comparisons": 66487732.23120567,
+            "operations": 66473584.23120567
+        },
+        "quick_sort": {
+            "times": 0.01856503446754861,
+            "comparisons": 430443.89219858154,
+            "operations": 27181.127659574468
+        }
+    },
+    "28300": {
+        "bubble_sort": {
+            "times": 13.879526164664684,
+            "comparisons": 201197252.93498233,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.002904354062963,
+            "comparisons": 66960289.50530035,
+            "operations": 66946091.50530035
+        },
+        "quick_sort": {
+            "times": 0.018626399222076886,
+            "comparisons": 432083.5109540636,
+            "operations": 27234.30035335689
+        }
+    },
+    "28400": {
+        "bubble_sort": {
+            "times": 13.949670315634183,
+            "comparisons": 202614939.84929577,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.035618439647221,
+            "comparisons": 67432371.60915492,
+            "operations": 67418123.60915492
+        },
+        "quick_sort": {
+            "times": 0.018675381689566894,
+            "comparisons": 433733.6992957746,
+            "operations": 27287.01056338028
+        }
+    },
+    "28500": {
+        "bubble_sort": {
+            "times": 14.020646315579295,
+            "comparisons": 204042693.56982455,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.068179289262472,
+            "comparisons": 67909628.47298245,
+            "operations": 67895330.47298245
+        },
+        "quick_sort": {
+            "times": 0.01870769866607397,
+            "comparisons": 435220.8252631579,
+            "operations": 27339.838596491227
+        }
+    },
+    "28600": {
+        "bubble_sort": {
+            "times": 14.091616821748618,
+            "comparisons": 205474960.84195805,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.099707217551719,
+            "comparisons": 68387167.56013986,
+            "operations": 68372819.56013986
+        },
+        "quick_sort": {
+            "times": 0.018755252167201517,
+            "comparisons": 436793.25104895106,
+            "operations": 27392.643356643355
+        }
+    },
+    "28700": {
+        "bubble_sort": {
+            "times": 14.162545226202452,
+            "comparisons": 206910003.68850175,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.132526301323332,
+            "comparisons": 68863782.16167247,
+            "operations": 68849384.16167247
+        },
+        "quick_sort": {
+            "times": 0.01879210717706756,
+            "comparisons": 438475.6299651568,
+            "operations": 27445.337979094078
+        }
+    },
+    "28800": {
+        "bubble_sort": {
+            "times": 14.234116012917003,
+            "comparisons": 208349662.5236111,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.1661727094437895,
+            "comparisons": 69342779.92777778,
+            "operations": 69328331.92777778
+        },
+        "quick_sort": {
+            "times": 0.018847418541028876,
+            "comparisons": 440114.1930555556,
+            "operations": 27497.895833333332
+        }
+    },
+    "28900": {
+        "bubble_sort": {
+            "times": 14.306521890380953,
+            "comparisons": 209793632.7750865,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.197597772110041,
+            "comparisons": 69825539.58823529,
+            "operations": 69811041.58823529
+        },
+        "quick_sort": {
+            "times": 0.018882121175856276,
+            "comparisons": 441629.692733564,
+            "operations": 27550.204152249134
+        }
+    },
+    "29000": {
+        "bubble_sort": {
+            "times": 14.379674373379554,
+            "comparisons": 211244442.46206897,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.230233258551051,
+            "comparisons": 70309788.78275862,
+            "operations": 70295240.78275862
+        },
+        "quick_sort": {
+            "times": 0.018937343654527875,
+            "comparisons": 443288.4848275862,
+            "operations": 27602.35172413793
+        }
+    },
+    "29100": {
+        "bubble_sort": {
+            "times": 14.453241679725306,
+            "comparisons": 212700711.11065292,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.263717284741495,
+            "comparisons": 70795253.13745704,
+            "operations": 70780655.13745704
+        },
+        "quick_sort": {
+            "times": 0.018975327353359637,
+            "comparisons": 444999.5175257732,
+            "operations": 27653.82474226804
+        }
+    },
+    "29200": {
+        "bubble_sort": {
+            "times": 14.526254198219418,
+            "comparisons": 214161675.5109589,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.2968531798622775,
+            "comparisons": 71282161.2630137,
+            "operations": 71267513.2630137
+        },
+        "quick_sort": {
+            "times": 0.01902187801315449,
+            "comparisons": 446571.55616438354,
+            "operations": 27705.36301369863
+        }
+    },
+    "29300": {
+        "bubble_sort": {
+            "times": 14.600410805529329,
+            "comparisons": 215625475.00341296,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.332059214879805,
+            "comparisons": 71770049.41228668,
+            "operations": 71755351.41228668
+        },
+        "quick_sort": {
+            "times": 0.019068686688857618,
+            "comparisons": 448213.6313993174,
+            "operations": 27756.56313993174
+        }
+    },
+    "29400": {
+        "bubble_sort": {
+            "times": 14.673648645510568,
+            "comparisons": 217095397.207483,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.365364386189688,
+            "comparisons": 72259397.12040816,
+            "operations": 72244649.12040816
+        },
+        "quick_sort": {
+            "times": 0.019117525101403333,
+            "comparisons": 449855.65170068026,
+            "operations": 27807.636054421768
+        }
+    },
+    "29500": {
+        "bubble_sort": {
+            "times": 14.74764982983091,
+            "comparisons": 218570852.0522034,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.398523997829722,
+            "comparisons": 72751775.46237288,
+            "operations": 72736977.46237288
+        },
+        "quick_sort": {
+            "times": 0.01915358155867148,
+            "comparisons": 451475.46711864404,
+            "operations": 27858.5593220339
+        }
+    },
+    "29600": {
+        "bubble_sort": {
+            "times": 14.822559651284168,
+            "comparisons": 220052378.56554055,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.433306304864095,
+            "comparisons": 73244447.04797298,
+            "operations": 73229599.04797298
+        },
+        "quick_sort": {
+            "times": 0.019191745742589136,
+            "comparisons": 453043.9783783784,
+            "operations": 27909.317567567567
+        }
+    },
+    "29700": {
+        "bubble_sort": {
+            "times": 14.897193740067772,
+            "comparisons": 221537326.9939394,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.467788476564864,
+            "comparisons": 73738379.98249158,
+            "operations": 73723481.98249158
+        },
+        "quick_sort": {
+            "times": 0.019231020268727007,
+            "comparisons": 454588.21952861955,
+            "operations": 27959.744107744107
+        }
+    },
+    "29800": {
+        "bubble_sort": {
+            "times": 14.97089073221518,
+            "comparisons": 223027972.947651,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.500951833422015,
+            "comparisons": 74235614.90939598,
+            "operations": 74220666.90939598
+        },
+        "quick_sort": {
+            "times": 0.01927508859006038,
+            "comparisons": 456248.70805369125,
+            "operations": 28010.295302013423
+        }
+    },
+    "29900": {
+        "bubble_sort": {
+            "times": 15.047207984950255,
+            "comparisons": 224523165.40869564,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.536035339597903,
+            "comparisons": 74733611.18060201,
+            "operations": 74718613.18060201
+        },
+        "quick_sort": {
+            "times": 0.019311923879108402,
+            "comparisons": 457819.11906354513,
+            "operations": 28060.535117056857
+        }
+    },
+    "30000": {
+        "bubble_sort": {
+            "times": 15.124257864933771,
+            "comparisons": 226024257.49466667,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.570911156065878,
+            "comparisons": 75234192.10666667,
+            "operations": 75219144.10666667
+        },
+        "quick_sort": {
+            "times": 0.019347873599501325,
+            "comparisons": 459358.1273333333,
+            "operations": 28110.69
+        }
+    },
+    "30100": {
+        "bubble_sort": {
+            "times": 15.201258078206367,
+            "comparisons": 227528448.33554816,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.607676077740107,
+            "comparisons": 75735761.4950166,
+            "operations": 75720663.4950166
+        },
+        "quick_sort": {
+            "times": 0.01940449076365104,
+            "comparisons": 461051.9634551495,
+            "operations": 28160.671096345515
+        }
+    },
+    "30200": {
+        "bubble_sort": {
+            "times": 15.277675452318222,
+            "comparisons": 229040323.19867548,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.643248919933026,
+            "comparisons": 76242910.29801324,
+            "operations": 76227762.29801324
+        },
+        "quick_sort": {
+            "times": 0.019446662516064868,
+            "comparisons": 462761.5185430464,
+            "operations": 28210.90728476821
+        }
+    },
+    "30300": {
+        "bubble_sort": {
+            "times": 15.355010434521766,
+            "comparisons": 230557979.55115512,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.678930795180847,
+            "comparisons": 76749641.15379538,
+            "operations": 76734443.15379538
+        },
+        "quick_sort": {
+            "times": 0.019516016105105394,
+            "comparisons": 464474.3881188119,
+            "operations": 28260.887788778877
+        }
+    },
+    "30400": {
+        "bubble_sort": {
+            "times": 15.433120017960793,
+            "comparisons": 232079427.07697368,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.713929701051989,
+            "comparisons": 77256570.95723684,
+            "operations": 77241322.95723684
+        },
+        "quick_sort": {
+            "times": 0.01955918138107671,
+            "comparisons": 466118.4736842105,
+            "operations": 28310.095394736843
+        }
+    },
+    "30500": {
+        "bubble_sort": {
+            "times": 15.511204679344482,
+            "comparisons": 233607416.9232787,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.750086499802639,
+            "comparisons": 77765647.20590164,
+            "operations": 77750349.20590164
+        },
+        "quick_sort": {
+            "times": 0.019602210950297228,
+            "comparisons": 467702.55278688524,
+            "operations": 28359.47868852459
+        }
+    },
+    "30600": {
+        "bubble_sort": {
+            "times": 15.589107078758412,
+            "comparisons": 235138317.19084966,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.785903552809831,
+            "comparisons": 78278476.59803921,
+            "operations": 78263128.59803921
+        },
+        "quick_sort": {
+            "times": 0.019649516143288245,
+            "comparisons": 469346.47777777776,
+            "operations": 28408.45424836601
+        }
+    },
+    "30700": {
+        "bubble_sort": {
+            "times": 15.668170759935123,
+            "comparisons": 236673755.34918568,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.821558419543437,
+            "comparisons": 78790199.96416938,
+            "operations": 78774801.96416938
+        },
+        "quick_sort": {
+            "times": 0.01970145889199172,
+            "comparisons": 471060.99153094465,
+            "operations": 28457.84364820847
+        }
+    },
+    "30800": {
+        "bubble_sort": {
+            "times": 15.746397622792479,
+            "comparisons": 238214287.93116882,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.859466454804634,
+            "comparisons": 79304829.82467532,
+            "operations": 79289381.82467532
+        },
+        "quick_sort": {
+            "times": 0.01975082590856269,
+            "comparisons": 472693.48246753245,
+            "operations": 28507.04220779221
+        }
+    },
+    "30900": {
+        "bubble_sort": {
+            "times": 15.826198621747885,
+            "comparisons": 239761020.82718447,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.896477551455723,
+            "comparisons": 79821236.002589,
+            "operations": 79805738.002589
+        },
+        "quick_sort": {
+            "times": 0.019788919352213507,
+            "comparisons": 474188.1443365696,
+            "operations": 28555.763754045307
+        }
+    },
+    "31000": {
+        "bubble_sort": {
+            "times": 15.905672957484175,
+            "comparisons": 241313578.5367742,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.933970913612321,
+            "comparisons": 80339302.3,
+            "operations": 80323754.3
+        },
+        "quick_sort": {
+            "times": 0.019846732515631425,
+            "comparisons": 475724.21548387094,
+            "operations": 28603.803225806452
+        }
+    },
+    "31100": {
+        "bubble_sort": {
+            "times": 15.984908376334698,
+            "comparisons": 242869279.74790996,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 7.970927635497837,
+            "comparisons": 80857487.37234727,
+            "operations": 80841889.37234727
+        },
+        "quick_sort": {
+            "times": 0.01989465446894168,
+            "comparisons": 477341.75884244376,
+            "operations": 28652.315112540193
+        }
+    },
+    "31200": {
+        "bubble_sort": {
+            "times": 16.065410503205463,
+            "comparisons": 244429893.42628205,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.007800309678975,
+            "comparisons": 81377360.4775641,
+            "operations": 81361712.4775641
+        },
+        "quick_sort": {
+            "times": 0.019944029422558976,
+            "comparisons": 478993.45961538464,
+            "operations": 28700.88141025641
+        }
+    },
+    "31300": {
+        "bubble_sort": {
+            "times": 16.14600178702904,
+            "comparisons": 245996042.41789138,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.04489400741163,
+            "comparisons": 81899814.25623003,
+            "operations": 81884116.25623003
+        },
+        "quick_sort": {
+            "times": 0.01998896070238286,
+            "comparisons": 480560.3450479233,
+            "operations": 28748.79233226837
+        }
+    },
+    "31400": {
+        "bubble_sort": {
+            "times": 16.226990443949365,
+            "comparisons": 247567172.95414013,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.084185556623682,
+            "comparisons": 82422023.19363058,
+            "operations": 82406275.19363058
+        },
+        "quick_sort": {
+            "times": 0.020038096432664555,
+            "comparisons": 482210.52611464966,
+            "operations": 28796.28025477707
+        }
+    },
+    "31500": {
+        "bubble_sort": {
+            "times": 16.30759156882567,
+            "comparisons": 249141388.85714287,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.124012238729657,
+            "comparisons": 82945850.06793651,
+            "operations": 82930052.06793651
+        },
+        "quick_sort": {
+            "times": 0.020086482221829807,
+            "comparisons": 483742.22285714286,
+            "operations": 28843.844444444443
+        }
+    },
+    "31600": {
+        "bubble_sort": {
+            "times": 16.390322340190185,
+            "comparisons": 250722613.46012658,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.160867341645092,
+            "comparisons": 83472690.62721519,
+            "operations": 83456842.62721519
+        },
+        "quick_sort": {
+            "times": 0.020125362974307146,
+            "comparisons": 485402.54683544306,
+            "operations": 28891.541139240508
+        }
+    },
+    "31700": {
+        "bubble_sort": {
+            "times": 16.47284772302867,
+            "comparisons": 252309130.2,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.198505902333899,
+            "comparisons": 84002810.42271294,
+            "operations": 83986912.42271294
+        },
+        "quick_sort": {
+            "times": 0.020165951356103745,
+            "comparisons": 487010.7949526814,
+            "operations": 28938.596214511042
+        }
+    },
+    "31800": {
+        "bubble_sort": {
+            "times": 16.554311208742444,
+            "comparisons": 253901427.08616352,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.237323348490015,
+            "comparisons": 84536483.47735849,
+            "operations": 84520535.47735849
+        },
+        "quick_sort": {
+            "times": 0.02021606232664905,
+            "comparisons": 488672.820754717,
+            "operations": 28985.66352201258
+        }
+    },
+    "31900": {
+        "bubble_sort": {
+            "times": 16.638550766583403,
+            "comparisons": 255500007.52789968,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.277266050532363,
+            "comparisons": 85071486.00438872,
+            "operations": 85055488.00438872
+        },
+        "quick_sort": {
+            "times": 0.020265170219055082,
+            "comparisons": 490240.63134796236,
+            "operations": 29032.683385579938
+        }
+    },
+    "32000": {
+        "bubble_sort": {
+            "times": 16.720923668125288,
+            "comparisons": 257102811.286875,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.31528211274941,
+            "comparisons": 85606751.805,
+            "operations": 85590703.805
+        },
+        "quick_sort": {
+            "times": 0.02031823937464651,
+            "comparisons": 491853.836875,
+            "operations": 29079.703125
+        }
+    },
+    "32100": {
+        "bubble_sort": {
+            "times": 16.804621491464424,
+            "comparisons": 258710921.75264797,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.35424003009289,
+            "comparisons": 86141402.31339563,
+            "operations": 86125304.31339563
+        },
+        "quick_sort": {
+            "times": 0.02036112230495953,
+            "comparisons": 493382.4666666667,
+            "operations": 29126.302180685358
+        }
+    },
+    "32200": {
+        "bubble_sort": {
+            "times": 16.88884522751576,
+            "comparisons": 260321145.24285713,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.393407434222986,
+            "comparisons": 86678455.11614907,
+            "operations": 86662307.11614907
+        },
+        "quick_sort": {
+            "times": 0.02042123801215922,
+            "comparisons": 495016.6285714286,
+            "operations": 29172.978260869564
+        }
+    },
+    "32300": {
+        "bubble_sort": {
+            "times": 16.97297786030981,
+            "comparisons": 261936750.1114551,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.433229881733181,
+            "comparisons": 87217112.1120743,
+            "operations": 87200914.1120743
+        },
+        "quick_sort": {
+            "times": 0.02046096712046652,
+            "comparisons": 496556.71145510837,
+            "operations": 29219.4613003096
+        }
+    },
+    "32400": {
+        "bubble_sort": {
+            "times": 17.056235577222456,
+            "comparisons": 263558110.9432099,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.474339282468577,
+            "comparisons": 87756234.85308643,
+            "operations": 87739986.85308643
+        },
+        "quick_sort": {
+            "times": 0.02051057561701681,
+            "comparisons": 498181.2567901235,
+            "operations": 29265.787037037036
+        }
+    },
+    "32500": {
+        "bubble_sort": {
+            "times": 17.14047727292332,
+            "comparisons": 265183127.83076924,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.513806219814775,
+            "comparisons": 88298397.21292308,
+            "operations": 88282099.21292308
+        },
+        "quick_sort": {
+            "times": 0.020553759999716512,
+            "comparisons": 499769.74953846156,
+            "operations": 29311.701538461537
+        }
+    },
+    "32600": {
+        "bubble_sort": {
+            "times": 17.22714060404937,
+            "comparisons": 266814803.2417178,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.554882645520825,
+            "comparisons": 88843187.40552147,
+            "operations": 88826839.40552147
+        },
+        "quick_sort": {
+            "times": 0.0206071842942484,
+            "comparisons": 501552.3865030675,
+            "operations": 29357.91717791411
+        }
+    },
+    "32700": {
+        "bubble_sort": {
+            "times": 17.313198194618014,
+            "comparisons": 268449375.3902141,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.595107991558988,
+            "comparisons": 89387249.8703364,
+            "operations": 89370851.8703364
+        },
+        "quick_sort": {
+            "times": 0.02064316691111614,
+            "comparisons": 503125.36085626914,
+            "operations": 29403.52599388379
+        }
+    },
+    "32800": {
+        "bubble_sort": {
+            "times": 17.398747111585667,
+            "comparisons": 270089296.48719513,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.63476971829205,
+            "comparisons": 89935935.31768292,
+            "operations": 89919487.31768292
+        },
+        "quick_sort": {
+            "times": 0.02069980719495173,
+            "comparisons": 504815.8987804878,
+            "operations": 29448.829268292684
+        }
+    },
+    "32900": {
+        "bubble_sort": {
+            "times": 17.486006766261667,
+            "comparisons": 271736237.9337386,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.674300016595106,
+            "comparisons": 90484738.12705167,
+            "operations": 90468240.12705167
+        },
+        "quick_sort": {
+            "times": 0.020740262249068536,
+            "comparisons": 506419.08996960486,
+            "operations": 29494.1094224924
+        }
+    },
+    "33000": {
+        "bubble_sort": {
+            "times": 17.57333184315181,
+            "comparisons": 273388292.3848485,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.716074489999357,
+            "comparisons": 91037830.97090909,
+            "operations": 91021282.97090909
+        },
+        "quick_sort": {
+            "times": 0.020795252242294903,
+            "comparisons": 508027.8012121212,
+            "operations": 29539.52727272727
+        }
+    },
+    "33100": {
+        "bubble_sort": {
+            "times": 17.660649060121077,
+            "comparisons": 275042900.28338367,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.75719792308093,
+            "comparisons": 91589629.17401813,
+            "operations": 91573031.17401813
+        },
+        "quick_sort": {
+            "times": 0.020854406042117343,
+            "comparisons": 509557.63021148037,
+            "operations": 29584.74018126888
+        }
+    },
+    "33200": {
+        "bubble_sort": {
+            "times": 17.749180750542422,
+            "comparisons": 276706368.2939759,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.799043720722281,
+            "comparisons": 92145511.25783132,
+            "operations": 92128863.25783132
+        },
+        "quick_sort": {
+            "times": 0.02089878650580628,
+            "comparisons": 511231.8156626506,
+            "operations": 29629.743975903613
+        }
+    },
+    "33300": {
+        "bubble_sort": {
+            "times": 17.83692063075104,
+            "comparisons": 278372290.8912913,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.840296974173654,
+            "comparisons": 92700406.69309309,
+            "operations": 92683708.69309309
+        },
+        "quick_sort": {
+            "times": 0.020940487807569047,
+            "comparisons": 512769.1177177177,
+            "operations": 29674.651651651653
+        }
+    },
+    "33400": {
+        "bubble_sort": {
+            "times": 17.92478433455115,
+            "comparisons": 280042927.85808384,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.881387812574324,
+            "comparisons": 93254490.13053893,
+            "operations": 93237742.13053893
+        },
+        "quick_sort": {
+            "times": 0.021000993233327447,
+            "comparisons": 514375.6131736527,
+            "operations": 29719.233532934133
+        }
+    },
+    "33500": {
+        "bubble_sort": {
+            "times": 18.012943319701762,
+            "comparisons": 281718981.02626866,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.92364485689498,
+            "comparisons": 93813180.85313433,
+            "operations": 93796382.85313433
+        },
+        "quick_sort": {
+            "times": 0.02104194507437216,
+            "comparisons": 515964.65731343284,
+            "operations": 29763.576119402984
+        }
+    },
+    "33600": {
+        "bubble_sort": {
+            "times": 18.1017480694051,
+            "comparisons": 283401162.61071426,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 8.966934648332833,
+            "comparisons": 94374818.94761905,
+            "operations": 94357970.94761905
+        },
+        "quick_sort": {
+            "times": 0.02108686869018822,
+            "comparisons": 517422.87023809523,
+            "operations": 29808.0
+        }
+    },
+    "33700": {
+        "bubble_sort": {
+            "times": 18.190008283798473,
+            "comparisons": 285085894.1715134,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.008341185993567,
+            "comparisons": 94933727.63264094,
+            "operations": 94916829.63264094
+        },
+        "quick_sort": {
+            "times": 0.02112885121634722,
+            "comparisons": 519163.2729970326,
+            "operations": 29852.169139465874
+        }
+    },
+    "33800": {
+        "bubble_sort": {
+            "times": 18.279795435207348,
+            "comparisons": 286779056.3863905,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.050576044969947,
+            "comparisons": 95497714.78461538,
+            "operations": 95480766.78461538
+        },
+        "quick_sort": {
+            "times": 0.021164530650684996,
+            "comparisons": 520722.43431952666,
+            "operations": 29896.082840236686
+        }
+    },
+    "33900": {
+        "bubble_sort": {
+            "times": 18.370233540295192,
+            "comparisons": 288476795.67256635,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.09306264702017,
+            "comparisons": 96063097.19292036,
+            "operations": 96046099.19292036
+        },
+        "quick_sort": {
+            "times": 0.021200589203292222,
+            "comparisons": 522279.8471976401,
+            "operations": 29940.047197640117
+        }
+    },
+    "34000": {
+        "bubble_sort": {
+            "times": 18.461153601411944,
+            "comparisons": 290178727.1247059,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.13660076752894,
+            "comparisons": 96631737.02176471,
+            "operations": 96614689.02176471
+        },
+        "quick_sort": {
+            "times": 0.02125067247033311,
+            "comparisons": 523864.35647058825,
+            "operations": 29983.726470588233
+        }
+    },
+    "34100": {
+        "bubble_sort": {
+            "times": 18.55275217026412,
+            "comparisons": 291885659.1542522,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.178829941172541,
+            "comparisons": 97204094.1777126,
+            "operations": 97186996.1777126
+        },
+        "quick_sort": {
+            "times": 0.021289472140493336,
+            "comparisons": 525397.3014662757,
+            "operations": 30027.278592375365
+        }
+    },
+    "34200": {
+        "bubble_sort": {
+            "times": 18.644482229941705,
+            "comparisons": 293596650.6994152,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.220403033157378,
+            "comparisons": 97775353.75614035,
+            "operations": 97758205.75614035
+        },
+        "quick_sort": {
+            "times": 0.02132978105229293,
+            "comparisons": 526976.7929824562,
+            "operations": 30070.991228070176
+        }
+    },
+    "34300": {
+        "bubble_sort": {
+            "times": 18.735859047113877,
+            "comparisons": 295314768.4612245,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.262695865130626,
+            "comparisons": 98347715.35393585,
+            "operations": 98330517.35393585
+        },
+        "quick_sort": {
+            "times": 0.021366398950085675,
+            "comparisons": 528549.0973760933,
+            "operations": 30114.513119533527
+        }
+    },
+    "34400": {
+        "bubble_sort": {
+            "times": 18.82789013959321,
+            "comparisons": 297037297.28197676,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.304838630755237,
+            "comparisons": 98924075.44593023,
+            "operations": 98906827.44593023
+        },
+        "quick_sort": {
+            "times": 0.021414110929871704,
+            "comparisons": 530135.3744186047,
+            "operations": 30157.38081395349
+        }
+    },
+    "34500": {
+        "bubble_sort": {
+            "times": 18.968887586782827,
+            "comparisons": 298763212.4626087,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.381063496521168,
+            "comparisons": 99498379.76115942,
+            "operations": 99481081.76115942
+        },
+        "quick_sort": {
+            "times": 0.021489073738752716,
+            "comparisons": 531710.5263768116,
+            "operations": 30200.50434782609
+        }
+    },
+    "34600": {
+        "bubble_sort": {
+            "times": 19.139958074566675,
+            "comparisons": 300493205.0046243,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.467193969016769,
+            "comparisons": 100075230.98612717,
+            "operations": 100057882.98612717
+        },
+        "quick_sort": {
+            "times": 0.02157595491291137,
+            "comparisons": 533281.9942196532,
+            "operations": 30243.236994219653
+        }
+    },
+    "34700": {
+        "bubble_sort": {
+            "times": 19.30493479625383,
+            "comparisons": 302229964.5619597,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.546455673140645,
+            "comparisons": 100653831.50778098,
+            "operations": 100636433.50778098
+        },
+        "quick_sort": {
+            "times": 0.02166488386126321,
+            "comparisons": 534949.2149855908,
+            "operations": 30286.034582132565
+        }
+    },
+    "34800": {
+        "bubble_sort": {
+            "times": 19.48058953034506,
+            "comparisons": 303969937.5454023,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.634962520574122,
+            "comparisons": 101233495.36724138,
+            "operations": 101216047.36724138
+        },
+        "quick_sort": {
+            "times": 0.021748141378924335,
+            "comparisons": 536470.3471264368,
+            "operations": 30328.560344827587
+        }
+    },
+    "34900": {
+        "bubble_sort": {
+            "times": 19.684929721776754,
+            "comparisons": 305716904.57077366,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.744182724641192,
+            "comparisons": 101816362.94613181,
+            "operations": 101798864.94613181
+        },
+        "quick_sort": {
+            "times": 0.021868046647188572,
+            "comparisons": 538022.5014326648,
+            "operations": 30371.045845272205
+        }
+    },
+    "35000": {
+        "bubble_sort": {
+            "times": 19.864630910057375,
+            "comparisons": 307466585.5354286,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.839352049256476,
+            "comparisons": 102399880.71485715,
+            "operations": 102382332.71485715
+        },
+        "quick_sort": {
+            "times": 0.021954198628198356,
+            "comparisons": 539609.7765714285,
+            "operations": 30413.465714285714
+        }
+    },
+    "35100": {
+        "bubble_sort": {
+            "times": 20.042417494416174,
+            "comparisons": 309221891.3487179,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 9.928732165868295,
+            "comparisons": 102983544.25128205,
+            "operations": 102965946.25128205
+        },
+        "quick_sort": {
+            "times": 0.022037192136334503,
+            "comparisons": 541258.5487179487,
+            "operations": 30455.609686609685
+        }
+    },
+    "35200": {
+        "bubble_sort": {
+            "times": 20.221532358523042,
+            "comparisons": 310980305.0511364,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 10.021728562783391,
+            "comparisons": 103567760.68352273,
+            "operations": 103550112.68352273
+        },
+        "quick_sort": {
+            "times": 0.022124036249575013,
+            "comparisons": 542808.4715909091,
+            "operations": 30497.886363636364
+        }
+    },
+    "35300": {
+        "bubble_sort": {
+            "times": 20.415017952634848,
+            "comparisons": 312743539.27478755,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 10.124498411160749,
+            "comparisons": 104154261.87195468,
+            "operations": 104136563.87195468
+        },
+        "quick_sort": {
+            "times": 0.022216425778604148,
+            "comparisons": 544331.8509915015,
+            "operations": 30539.96317280453
+        }
+    },
+    "35400": {
+        "bubble_sort": {
+            "times": 20.60184831960478,
+            "comparisons": 314513461.26723164,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 10.22395960875635,
+            "comparisons": 104743268.41073446,
+            "operations": 104725520.41073446
+        },
+        "quick_sort": {
+            "times": 0.02231719434977572,
+            "comparisons": 545994.1225988701,
+            "operations": 30581.858757062146
+        }
+    },
+    "35500": {
+        "bubble_sort": {
+            "times": 20.780863989014374,
+            "comparisons": 316288118.9892958,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 10.314962917351407,
+            "comparisons": 105333443.95323944,
+            "operations": 105315645.95323944
+        },
+        "quick_sort": {
+            "times": 0.022400980281158233,
+            "comparisons": 547494.9740845071,
+            "operations": 30623.774647887323
+        }
+    },
+    "35600": {
+        "bubble_sort": {
+            "times": 20.964230524831756,
+            "comparisons": 318069596.0331461,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 10.410014012190311,
+            "comparisons": 105926478.4741573,
+            "operations": 105908630.4741573
+        },
+        "quick_sort": {
+            "times": 0.02248896831408499,
+            "comparisons": 549034.6730337079,
+            "operations": 30664.946629213482
+        }
+    },
+    "35700": {
+        "bubble_sort": {
+            "times": 21.16176355619072,
+            "comparisons": 319856899.2498599,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 10.516897903920897,
+            "comparisons": 106522678.63809524,
+            "operations": 106504780.63809524
+        },
+        "quick_sort": {
+            "times": 0.022582447674570225,
+            "comparisons": 550551.1467787115,
+            "operations": 30706.19887955182
+        }
+    },
+    "35800": {
+        "bubble_sort": {
+            "times": 21.31598936810081,
+            "comparisons": 321645874.5039106,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 10.597142511507752,
+            "comparisons": 107117809.53072625,
+            "operations": 107099861.53072625
+        },
+        "quick_sort": {
+            "times": 0.02265583776482563,
+            "comparisons": 552143.5944134078,
+            "operations": 30747.254189944135
+        }
+    },
+    "35900": {
+        "bubble_sort": {
+            "times": 21.506326919554603,
+            "comparisons": 323442267.37437326,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 10.696920949637223,
+            "comparisons": 107716822.1454039,
+            "operations": 107698824.1454039
+        },
+        "quick_sort": {
+            "times": 0.0227509522000211,
+            "comparisons": 553760.8395543175,
+            "operations": 30788.142061281338
+        }
+    },
+    "36000": {
+        "bubble_sort": {
+            "times": 21.67911881461135,
+            "comparisons": 325241380.6511111,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 10.784089926888216,
+            "comparisons": 108314465.61666666,
+            "operations": 108296417.61666666
+        },
+        "quick_sort": {
+            "times": 0.02283258027720472,
+            "comparisons": 555363.5488888889,
+            "operations": 30829.19722222222
+        }
+    },
+    "36100": {
+        "bubble_sort": {
+            "times": 21.852319375900493,
+            "comparisons": 327047833.13684213,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 10.873746040885734,
+            "comparisons": 108914912.96121883,
+            "operations": 108896814.96121883
+        },
+        "quick_sort": {
+            "times": 0.022913791522947386,
+            "comparisons": 556873.8,
+            "operations": 30870.2216066482
+        }
+    },
+    "36200": {
+        "bubble_sort": {
+            "times": 22.02545245828754,
+            "comparisons": 328856040.8403315,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 10.96091746198829,
+            "comparisons": 109515412.55524862,
+            "operations": 109497264.55524862
+        },
+        "quick_sort": {
+            "times": 0.02300255535850919,
+            "comparisons": 558429.2701657459,
+            "operations": 30910.704419889502
+        }
+    },
+    "36300": {
+        "bubble_sort": {
+            "times": 22.201708123195832,
+            "comparisons": 330674548.3895317,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 11.053819769420809,
+            "comparisons": 110122970.9707989,
+            "operations": 110104772.9707989
+        },
+        "quick_sort": {
+            "times": 0.023092325398802356,
+            "comparisons": 559962.4556473829,
+            "operations": 30951.17906336088
+        }
+    },
+    "36400": {
+        "bubble_sort": {
+            "times": 22.37951576521999,
+            "comparisons": 332493683.53296703,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 11.141394340548764,
+            "comparisons": 110728267.03571428,
+            "operations": 110710019.03571428
+        },
+        "quick_sort": {
+            "times": 0.023175818021351647,
+            "comparisons": 561542.282967033,
+            "operations": 30991.38186813187
+        }
+    },
+    "36500": {
+        "bubble_sort": {
+            "times": 22.55523434115089,
+            "comparisons": 334320482.7989041,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 11.235656906958154,
+            "comparisons": 111336655.45698631,
+            "operations": 111318357.45698631
+        },
+        "quick_sort": {
+            "times": 0.023259983780213364,
+            "comparisons": 563079.3775342465,
+            "operations": 31031.69589041096
+        }
+    },
+    "36600": {
+        "bubble_sort": {
+            "times": 22.732994176940057,
+            "comparisons": 336147030.2180328,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 11.327211613824389,
+            "comparisons": 111944033.4420765,
+            "operations": 111925685.4420765
+        },
+        "quick_sort": {
+            "times": 0.02335586295017204,
+            "comparisons": 564706.1136612021,
+            "operations": 31071.890710382515
+        }
+    },
+    "36700": {
+        "bubble_sort": {
+            "times": 22.895565309482425,
+            "comparisons": 337980537.8043597,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 11.41253919640254,
+            "comparisons": 112553698.37111716,
+            "operations": 112535300.37111716
+        },
+        "quick_sort": {
+            "times": 0.023440833841336318,
+            "comparisons": 566338.9972752044,
+            "operations": 31111.80926430518
+        }
+    },
+    "36800": {
+        "bubble_sort": {
+            "times": 23.084289651684895,
+            "comparisons": 339820180.211413,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 11.510368888205836,
+            "comparisons": 113165412.1298913,
+            "operations": 113146964.1298913
+        },
+        "quick_sort": {
+            "times": 0.023540599999377382,
+            "comparisons": 567972.8820652174,
+            "operations": 31151.910326086956
+        }
+    },
+    "36900": {
+        "bubble_sort": {
+            "times": 23.272624372574626,
+            "comparisons": 341665849.4,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 11.608905849647002,
+            "comparisons": 113780670.01626016,
+            "operations": 113762172.01626016
+        },
+        "quick_sort": {
+            "times": 0.02362859371212263,
+            "comparisons": 569529.0650406504,
+            "operations": 31191.636856368565
+        }
+    },
+    "37000": {
+        "bubble_sort": {
+            "times": 23.461935923783884,
+            "comparisons": 343516769.7308108,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 11.711154026539802,
+            "comparisons": 114397886.24486487,
+            "operations": 114379338.24486487
+        },
+        "quick_sort": {
+            "times": 0.023724780593986146,
+            "comparisons": 571102.4924324325,
+            "operations": 31231.254054054054
+        }
+    },
+    "37100": {
+        "bubble_sort": {
+            "times": 23.649341790727874,
+            "comparisons": 345371216.2975741,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 11.809461044042429,
+            "comparisons": 115015924.1477089,
+            "operations": 114997326.1477089
+        },
+        "quick_sort": {
+            "times": 0.023823795471098173,
+            "comparisons": 572749.9563342318,
+            "operations": 31270.622641509435
+        }
+    },
+    "37200": {
+        "bubble_sort": {
+            "times": 23.835175448548462,
+            "comparisons": 347232635.7870968,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 11.907029178332643,
+            "comparisons": 115635393.84677419,
+            "operations": 115616745.84677419
+        },
+        "quick_sort": {
+            "times": 0.023909111558497252,
+            "comparisons": 574309.6720430107,
+            "operations": 31310.139784946237
+        }
+    },
+    "37300": {
+        "bubble_sort": {
+            "times": 24.02260029764085,
+            "comparisons": 349097707.8664879,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 12.003513484074354,
+            "comparisons": 116256433.369437,
+            "operations": 116237735.369437
+        },
+        "quick_sort": {
+            "times": 0.02400268605830967,
+            "comparisons": 575890.3699731904,
+            "operations": 31349.60053619303
+        }
+    },
+    "37400": {
+        "bubble_sort": {
+            "times": 24.209289389946633,
+            "comparisons": 350968539.6871658,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 12.09956515299391,
+            "comparisons": 116880069.00213903,
+            "operations": 116861321.00213903
+        },
+        "quick_sort": {
+            "times": 0.024088177806791167,
+            "comparisons": 577471.0556149733,
+            "operations": 31388.697860962566
+        }
+    },
+    "37500": {
+        "bubble_sort": {
+            "times": 24.400812224426772,
+            "comparisons": 352842477.7632,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 12.196829607305924,
+            "comparisons": 117503492.99466667,
+            "operations": 117484694.99466667
+        },
+        "quick_sort": {
+            "times": 0.024190210132673383,
+            "comparisons": 579120.8528,
+            "operations": 31427.6
+        }
+    },
+    "37600": {
+        "bubble_sort": {
+            "times": 24.568179546702254,
+            "comparisons": 354724628.6904255,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 12.276742945531193,
+            "comparisons": 118130842.16223404,
+            "operations": 118111994.16223404
+        },
+        "quick_sort": {
+            "times": 0.024263456914242,
+            "comparisons": 580810.6526595745,
+            "operations": 31466.35904255319
+        }
+    },
+    "37700": {
+        "bubble_sort": {
+            "times": 24.722568042334373,
+            "comparisons": 356609031.32732093,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 12.353113308593455,
+            "comparisons": 118758694.72891247,
+            "operations": 118739796.72891247
+        },
+        "quick_sort": {
+            "times": 0.02434609628585723,
+            "comparisons": 582429.7978779841,
+            "operations": 31504.989389920425
+        }
+    },
+    "37800": {
+        "bubble_sort": {
+            "times": 24.875276435767308,
+            "comparisons": 358500057.5402116,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 12.429094268464873,
+            "comparisons": 119389914.96402116,
+            "operations": 119370966.96402116
+        },
+        "quick_sort": {
+            "times": 0.02441959375596886,
+            "comparisons": 584124.2857142857,
+            "operations": 31543.48148148148
+        }
+    },
+    "37900": {
+        "bubble_sort": {
+            "times": 25.03178824496048,
+            "comparisons": 360396719.92348284,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 12.507326726912241,
+            "comparisons": 120022387.01688655,
+            "operations": 120003389.01688655
+        },
+        "quick_sort": {
+            "times": 0.02448756538192056,
+            "comparisons": 585625.7245382586,
+            "operations": 31581.74406332454
+        }
+    },
+    "38000": {
+        "bubble_sort": {
+            "times": 25.18502364984214,
+            "comparisons": 362297354.3963158,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 12.582981522946717,
+            "comparisons": 120654943.16842106,
+            "operations": 120635895.16842106
+        },
+        "quick_sort": {
+            "times": 0.024564424683523708,
+            "comparisons": 587294.9563157895,
+            "operations": 31619.863157894735
+        }
+    },
+    "38100": {
+        "bubble_sort": {
+            "times": 25.33980554005252,
+            "comparisons": 364201304.143832,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 12.659971195537404,
+            "comparisons": 121288876.60944882,
+            "operations": 121269778.60944882
+        },
+        "quick_sort": {
+            "times": 0.024639329448216434,
+            "comparisons": 588945.901312336,
+            "operations": 31658.280839895015
+        }
+    },
+    "38200": {
+        "bubble_sort": {
+            "times": 25.509228466858684,
+            "comparisons": 366109826.66125655,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 12.74464794905696,
+            "comparisons": 121922630.74031414,
+            "operations": 121903482.74031414
+        },
+        "quick_sort": {
+            "times": 0.024727412564856735,
+            "comparisons": 590507.8392670157,
+            "operations": 31696.455497382198
+        }
+    },
+    "38300": {
+        "bubble_sort": {
+            "times": 25.67886439117493,
+            "comparisons": 368025804.78851175,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 12.829125783028106,
+            "comparisons": 122559484.89295039,
+            "operations": 122540286.89295039
+        },
+        "quick_sort": {
+            "times": 0.024802105743517034,
+            "comparisons": 592052.8720626632,
+            "operations": 31734.29503916449
+        }
+    },
+    "38400": {
+        "bubble_sort": {
+            "times": 25.848506644427047,
+            "comparisons": 369944822.090625,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 12.913807480051492,
+            "comparisons": 123200072.62239583,
+            "operations": 123180824.62239583
+        },
+        "quick_sort": {
+            "times": 0.024883205103560613,
+            "comparisons": 593633.5864583333,
+            "operations": 31772.127604166668
+        }
+    },
+    "38500": {
+        "bubble_sort": {
+            "times": 26.019452517038943,
+            "comparisons": 371869154.2566234,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 12.998983547376081,
+            "comparisons": 123841164.29766233,
+            "operations": 123821866.29766233
+        },
+        "quick_sort": {
+            "times": 0.024968422233163343,
+            "comparisons": 595246.8093506494,
+            "operations": 31809.97142857143
+        }
+    },
+    "38600": {
+        "bubble_sort": {
+            "times": 26.190264633523302,
+            "comparisons": 373796428.4279793,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 13.083506486372457,
+            "comparisons": 124480238.94352332,
+            "operations": 124460890.94352332
+        },
+        "quick_sort": {
+            "times": 0.02503962657972929,
+            "comparisons": 596763.589119171,
+            "operations": 31847.357512953367
+        }
+    },
+    "38700": {
+        "bubble_sort": {
+            "times": 26.36172852211888,
+            "comparisons": 375733883.875969,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 13.169484469405097,
+            "comparisons": 125126388.73436692,
+            "operations": 125106990.73436692
+        },
+        "quick_sort": {
+            "times": 0.02511781018025191,
+            "comparisons": 598328.7917312662,
+            "operations": 31884.824289405686
+        }
+    },
+    "38800": {
+        "bubble_sort": {
+            "times": 26.530572339639185,
+            "comparisons": 377675228.23041236,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 13.253056022164337,
+            "comparisons": 125772278.69536082,
+            "operations": 125752830.69536082
+        },
+        "quick_sort": {
+            "times": 0.025202856236467494,
+            "comparisons": 599917.5113402061,
+            "operations": 31922.24226804124
+        }
+    },
+    "38900": {
+        "bubble_sort": {
+            "times": 26.689568536349597,
+            "comparisons": 379621231.1290488,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 13.330875699125334,
+            "comparisons": 126418360.75424165,
+            "operations": 126398862.75424165
+        },
+        "quick_sort": {
+            "times": 0.02527980894535052,
+            "comparisons": 601452.4046272493,
+            "operations": 31959.39845758355
+        }
+    },
+    "39000": {
+        "bubble_sort": {
+            "times": 26.848485175897427,
+            "comparisons": 381572088.74358976,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 13.409747074153215,
+            "comparisons": 127068721.27384615,
+            "operations": 127049173.27384615
+        },
+        "quick_sort": {
+            "times": 0.025344002871171164,
+            "comparisons": 603082.5215384616,
+            "operations": 31996.497435897436
+        }
+    },
+    "39100": {
+        "bubble_sort": {
+            "times": 27.007350392173915,
+            "comparisons": 383528614.02557546,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 13.488577516367682,
+            "comparisons": 127720615.8342711,
+            "operations": 127701017.8342711
+        },
+        "quick_sort": {
+            "times": 0.025424774321626223,
+            "comparisons": 604753.4485933504,
+            "operations": 32033.488491048593
+        }
+    },
+    "39200": {
+        "bubble_sort": {
+            "times": 27.189047954030595,
+            "comparisons": 385488690.2010204,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 13.587226759540172,
+            "comparisons": 128373513.42857143,
+            "operations": 128353865.42857143
+        },
+        "quick_sort": {
+            "times": 0.025503562805504178,
+            "comparisons": 606406.6397959184,
+            "operations": 32070.23979591837
+        }
+    },
+    "39300": {
+        "bubble_sort": {
+            "times": 27.392240359440194,
+            "comparisons": 387454044.78880405,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 13.692660460966247,
+            "comparisons": 129028355.10229008,
+            "operations": 129008657.10229008
+        },
+        "quick_sort": {
+            "times": 0.025596209057919567,
+            "comparisons": 607970.8951653944,
+            "operations": 32106.722646310434
+        }
+    },
+    "39400": {
+        "bubble_sort": {
+            "times": 27.573298714060908,
+            "comparisons": 389426539.5482234,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 13.782926145887627,
+            "comparisons": 129685127.52639593,
+            "operations": 129665379.52639593
+        },
+        "quick_sort": {
+            "times": 0.02567713299437029,
+            "comparisons": 609550.9873096447,
+            "operations": 32143.238578680204
+        }
+    },
+    "39500": {
+        "bubble_sort": {
+            "times": 27.748855436759488,
+            "comparisons": 391400157.3108861,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 13.866776450328423,
+            "comparisons": 130341746.67037974,
+            "operations": 130321948.67037974
+        },
+        "quick_sort": {
+            "times": 0.02576299706270588,
+            "comparisons": 611085.7306329114,
+            "operations": 32179.513924050632
+        }
+    },
+    "39600": {
+        "bubble_sort": {
+            "times": 27.92544185222227,
+            "comparisons": 393379571.3787879,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 13.952331357120537,
+            "comparisons": 131000649.14393939,
+            "operations": 130980801.14393939
+        },
+        "quick_sort": {
+            "times": 0.025850109847919838,
+            "comparisons": 612636.8606060606,
+            "operations": 32215.863636363636
+        }
+    },
+    "39700": {
+        "bubble_sort": {
+            "times": 28.10457085914363,
+            "comparisons": 395364253.21763223,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 14.039964853248721,
+            "comparisons": 131661652.004534,
+            "operations": 131641754.004534
+        },
+        "quick_sort": {
+            "times": 0.025925166901143534,
+            "comparisons": 614231.2423173804,
+            "operations": 32252.06549118388
+        }
+    },
+    "39800": {
+        "bubble_sort": {
+            "times": 91.63965286000021,
+            "comparisons": 1188476720.8,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 48.48806181999898,
+            "comparisons": 395825944.6,
+            "operations": 395786146.6
+        },
+        "quick_sort": {
+            "times": 0.06021056000172394,
+            "comparisons": 1277373.0,
+            "operations": 46570.0
+        }
+    },
+    "39900": {
+        "bubble_sort": {
+            "times": 108.40318464999982,
+            "comparisons": 1190609149.6,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 58.824449199999435,
+            "comparisons": 396331135.5,
+            "operations": 396291287.5
+        },
+        "quick_sort": {
+            "times": 0.06449681000049168,
+            "comparisons": 1247633.4,
+            "operations": 46651.0
+        }
+    },
+    "40000": {
+        "bubble_sort": {
+            "times": 113.54623453333333,
+            "comparisons": 1193738059.8,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 60.802332306666116,
+            "comparisons": 397451868.6,
+            "operations": 397411970.6
+        },
+        "quick_sort": {
+            "times": 0.06582268666728244,
+            "comparisons": 1246045.6,
+            "operations": 46683.0
+        }
+    },
+    "40100": {
+        "bubble_sort": {
+            "times": 112.84228587999988,
+            "comparisons": 1196397870.15,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 59.25422790999964,
+            "comparisons": 398336566.3,
+            "operations": 398296618.3
+        },
+        "quick_sort": {
+            "times": 0.06457654500027274,
+            "comparisons": 1244283.0,
+            "operations": 46680.25
+        }
+    },
+    "40200": {
+        "bubble_sort": {
+            "times": 112.567711632,
+            "comparisons": 1199303779.12,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 58.38095338799947,
+            "comparisons": 399270835.64,
+            "operations": 399230837.64
+        },
+        "quick_sort": {
+            "times": 0.06445450800005346,
+            "comparisons": 1245098.72,
+            "operations": 46677.6
+        }
+    },
+    "40300": {
+        "bubble_sort": {
+            "times": 112.52275070999991,
+            "comparisons": 1202431292.4333334,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 57.871107460000225,
+            "comparisons": 400328564.9,
+            "operations": 400288516.9
+        },
+        "quick_sort": {
+            "times": 0.06400668333371869,
+            "comparisons": 1252588.6,
+            "operations": 46698.333333333336
+        }
+    },
+    "40400": {
+        "bubble_sort": {
+            "times": 112.53005005714242,
+            "comparisons": 1205344396.9714286,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 57.527233880000445,
+            "comparisons": 401212712.0857143,
+            "operations": 401172614.0857143
+        },
+        "quick_sort": {
+            "times": 0.06391167428581476,
+            "comparisons": 1256928.2,
+            "operations": 46701.28571428572
+        }
+    },
+    "40500": {
+        "bubble_sort": {
+            "times": 112.63342975999986,
+            "comparisons": 1208391620.55,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 57.30650094000075,
+            "comparisons": 402219215.975,
+            "operations": 402179067.975
+        },
+        "quick_sort": {
+            "times": 0.06401377250022051,
+            "comparisons": 1262782.9,
+            "operations": 46713.625
+        }
+    },
+    "40600": {
+        "bubble_sort": {
+            "times": 112.75906602222207,
+            "comparisons": 1211444651.0666666,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 57.18162494444526,
+            "comparisons": 403268014.3333333,
+            "operations": 403227816.3333333
+        },
+        "quick_sort": {
+            "times": 0.06385412888889228,
+            "comparisons": 1262120.8444444444,
+            "operations": 46732.444444444445
+        }
+    },
+    "40700": {
+        "bubble_sort": {
+            "times": 112.9301211179998,
+            "comparisons": 1214480337.12,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 57.100507198000635,
+            "comparisons": 404332240.48,
+            "operations": 404291992.48
+        },
+        "quick_sort": {
+            "times": 0.0635345359997882,
+            "comparisons": 1261372.66,
+            "operations": 46745.2
+        }
+    },
+    "40800": {
+        "bubble_sort": {
+            "times": 113.15913242181797,
+            "comparisons": 1217539147.8909092,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 57.0619153236369,
+            "comparisons": 405355628.0,
+            "operations": 405315330.0
+        },
+        "quick_sort": {
+            "times": 0.06372407454539578,
+            "comparisons": 1267143.8727272728,
+            "operations": 46755.72727272727
+        }
+    },
+    "40900": {
+        "bubble_sort": {
+            "times": 113.39548956833326,
+            "comparisons": 1220577983.9666667,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 57.055554205000526,
+            "comparisons": 406355845.6166667,
+            "operations": 406315497.6166667
+        },
+        "quick_sort": {
+            "times": 0.06372470333335514,
+            "comparisons": 1269605.0333333334,
+            "operations": 46777.25
+        }
+    },
+    "41000": {
+        "bubble_sort": {
+            "times": 113.62493370769214,
+            "comparisons": 1223646292.9384615,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 57.06636486153903,
+            "comparisons": 407378843.7076923,
+            "operations": 407338445.7076923
+        },
+        "quick_sort": {
+            "times": 0.06374830153867012,
+            "comparisons": 1271941.1846153846,
+            "operations": 46788.769230769234
+        }
+    },
+    "41100": {
+        "bubble_sort": {
+            "times": 113.75696060142842,
+            "comparisons": 1226732495.7428572,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 57.00631329000051,
+            "comparisons": 408424750.37142855,
+            "operations": 408384302.37142855
+        },
+        "quick_sort": {
+            "times": 0.06364891142865027,
+            "comparisons": 1274340.5714285714,
+            "operations": 46798.92857142857
+        }
+    },
+    "41200": {
+        "bubble_sort": {
+            "times": 112.28255655199978,
+            "comparisons": 1229879754.5733333,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 56.09140800266716,
+            "comparisons": 409488197.4,
+            "operations": 409447699.4
+        },
+        "quick_sort": {
+            "times": 0.06261506133324778,
+            "comparisons": 1276407.8133333332,
+            "operations": 46815.0
+        }
+    },
+    "41300": {
+        "bubble_sort": {
+            "times": 109.94778572499972,
+            "comparisons": 1232904232.95,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 54.80252806500052,
+            "comparisons": 410454630.7125,
+            "operations": 410414082.7125
+        },
+        "quick_sort": {
+            "times": 0.0615253737499188,
+            "comparisons": 1278068.475,
+            "operations": 46824.0625
+        }
+    },
+    "41400": {
+        "bubble_sort": {
+            "times": 107.908273088235,
+            "comparisons": 1236026898.7411764,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 53.69662083058874,
+            "comparisons": 411544779.5529412,
+            "operations": 411504181.5529412
+        },
+        "quick_sort": {
+            "times": 0.060636107058791605,
+            "comparisons": 1278770.3764705881,
+            "operations": 46836.294117647056
+        }
+    },
+    "41500": {
+        "bubble_sort": {
+            "times": 107.92098845111089,
+            "comparisons": 1239058436.0333333,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 53.94930284222262,
+            "comparisons": 412543322.3666667,
+            "operations": 412502674.3666667
+        },
+        "quick_sort": {
+            "times": 0.06072358555546897,
+            "comparisons": 1280004.0,
+            "operations": 46850.27777777778
+        }
+    },
+    "41600": {
+        "bubble_sort": {
+            "times": 109.08088959368408,
+            "comparisons": 1242036849.663158,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 54.59116137473722,
+            "comparisons": 413486952.4,
+            "operations": 413446254.4
+        },
+        "quick_sort": {
+            "times": 0.06110897894725081,
+            "comparisons": 1281632.2,
+            "operations": 46862.0
+        }
+    },
+    "41700": {
+        "bubble_sort": {
+            "times": 110.72435833599978,
+            "comparisons": 1245138057.91,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 55.63042238100035,
+            "comparisons": 414528178.73,
+            "operations": 414487430.73
+        },
+        "quick_sort": {
+            "times": 0.06191514399986772,
+            "comparisons": 1283302.76,
+            "operations": 46874.05
+        }
+    },
+    "41800": {
+        "bubble_sort": {
+            "times": 111.8864641428569,
+            "comparisons": 1248254818.0,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 56.185860191428944,
+            "comparisons": 415571551.2,
+            "operations": 415530753.2
+        },
+        "quick_sort": {
+            "times": 0.06213243904743909,
+            "comparisons": 1282915.5333333334,
+            "operations": 46890.28571428572
+        }
+    },
+    "41900": {
+        "bubble_sort": {
+            "times": 112.40422533818155,
+            "comparisons": 1251340454.1,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 56.34723217090944,
+            "comparisons": 416597016.5181818,
+            "operations": 416556168.5181818
+        },
+        "quick_sort": {
+            "times": 0.062188889999908334,
+            "comparisons": 1284219.1090909091,
+            "operations": 46902.5
+        }
+    },
+    "42000": {
+        "bubble_sort": {
+            "times": 112.89773419999977,
+            "comparisons": 1254470675.6,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 56.51239349913075,
+            "comparisons": 417642587.66086954,
+            "operations": 417601689.66086954
+        },
+        "quick_sort": {
+            "times": 0.06232113913043261,
+            "comparisons": 1286188.095652174,
+            "operations": 46912.95652173913
+        }
+    },
+    "42100": {
+        "bubble_sort": {
+            "times": 113.42133898499978,
+            "comparisons": 1257497507.2416666,
+            "operations": 1.0
+        },
+        "insertion_sort": {
+            "times": 56.7518406808336,
+            "comparisons": 418618847.71666664,
+            "operations": 418577899.71666664
+        },
+        "quick_sort": {
+            "times": 0.0624306816667134,
+            "comparisons": 1289056.8333333333,
+            "operations": 46923.25
+        }
     }
 }

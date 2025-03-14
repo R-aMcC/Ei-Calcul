@@ -181,7 +181,7 @@ def new(pause_event):
     except (FileNotFoundError, json.JSONDecodeError):
         data = {}
 
-    for i in range(1, 2001):
+    for i in range(398, 2001):
         for j in range(5):
             manager = multiprocessing.Manager()
             times_data_bubble = manager.dict()
